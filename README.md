@@ -1,2 +1,3 @@
 # Pipeline CI
+# Configuração Inicial
 
